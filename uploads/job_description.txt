@@ -1,0 +1,11 @@
+We are looking for a skilled Python Developer with 2+ years of experience in backend development.
+
+Responsibilities:
+- Build and maintain APIs using Flask or Django
+- Experience with machine learning models is a plus
+- Good understanding of databases (SQL or NoSQL)
+- Familiarity with Git and Docker is desirable
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- Experience with Python and backend systems
